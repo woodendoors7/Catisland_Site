@@ -1,0 +1,18 @@
+html,
+body {
+    background-image: url(https://c.tenor.com/gWJRoOSx7FIAAAAC/space-kitten.gif);
+    background-size: 200px;
+}
+
+img {
+    max-width: 250px;
+    cursor: pointer;
+    vertical-align: middle;
+    align-self: center;
+    background-color: white;
+}
+
+.catisland {
+    width: 350px !important;
+    max-width: 350px !important;
+}
